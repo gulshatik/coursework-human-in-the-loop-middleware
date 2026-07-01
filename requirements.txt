@@ -1,0 +1,11 @@
+langgraph==1.2.6
+langchain-core==1.4.8
+langchain-openai==1.3.3
+httpx
+python-dotenv
+rich
+chromadb
+pydantic
+questionary
+# Removed problematic langchain version specifier to avoid pip install errors
+# langchain==0.3+
